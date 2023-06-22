@@ -1,10 +1,21 @@
-<img align="center" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<h1 align="center">Hi, I'm Kishu Maharjan</h1>
+<h3 align="center">Software Engineer from Lalitpur, Nepal</h3>
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kishu-maharjan-10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishu-maharjan-10" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://fb.com/kishu.maharjan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kishu.maharjan" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/_.kishu._10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.kishu._10" height="30" width="40" /></a>
-</p> -->
+<br/>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
+- Currently working in <a href="https://infodev.com.np/" target="blank">InfoDevelopers Pvt. Ltd.</a>
+
+- Working on Python Language (Django Framework)
+
+- I’m available for freelancing
+
+- Also learning JavaScript and ReactJS
+
+- Reach me through <a href = "mailto: mhrznkishu.10@gmail.com">mhrznkishu.10@gmail.com</a>
+
+- Know about my experiences from <a href="https://docs.google.com/document/d/10ka98FuoeGKhH_XUS39JXOARafSvwVXRUobYrrX2fAU/edit?usp=sharing" target="blank">Resume</a>
+<br/>
