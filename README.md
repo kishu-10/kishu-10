@@ -11,7 +11,7 @@
 
 - Working on Python Language (Django Framework)
 
-- I’m available for freelancing
+- Available for Freelancing
 
 - Also learning JavaScript and ReactJS
 
