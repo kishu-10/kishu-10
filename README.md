@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kishu Maharjan</h1>
-<h3 align="center">Software Engineer from Lalitpur, Nepal</h3>
+<h3 align="center">Software Engineer | Python</h3>
 
 <br/>
 
