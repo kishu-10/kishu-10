@@ -7,7 +7,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- Currently working in <a href="https://infodev.com.np/" target="blank">Fusemachines Nepal Pvt. Ltd.</a>
+- Currently working in <a href="https://fusemachines.com/" target="blank">Fusemachines Nepal Pvt. Ltd.</a>
 
 - Working on Python Language
 
