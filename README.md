@@ -7,9 +7,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- Currently working in <a href="https://fusemachines.com/" target="_blank">Fusemachines Nepal Pvt. Ltd.</a>
+- Currently pursing Master of Science in Computer Science in <a href="https://www.wright.edu/" target="_blank">Wright State University</a>
 
-- Working on Python Language
+- Working on Python Language based web frameworks
 
 - Available for Freelancing
 
