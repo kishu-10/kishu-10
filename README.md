@@ -13,7 +13,7 @@
 
 - Available for Freelancing
 
-- Also learning JavaScript, TypeScript, ReactJS and NodeJS
+- Also learning JavaScript, TypeScript, React.js and Node.js
 
 - Reach me through <a href = "mailto: mhrznkishu.10@gmail.com">mhrznkishu.10@gmail.com</a>
 
