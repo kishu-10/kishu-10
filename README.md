@@ -13,11 +13,13 @@
 
 - Available for Freelancing
 
+- Exploring the world of AI and Machine Learning, working and trying out different models and ideas. 
+
 - Also learning JavaScript, TypeScript, React.js and Node.js
 
 - Reach me through <a href = "mailto: mhrznkishu.10@gmail.com">mhrznkishu.10@gmail.com</a>
 
-- Know about my experiences from <a href="https://docs.google.com/document/d/1JwVeWoVrPl6kNuiam4G2egFXt3mvg_2PhYXSAW9C5Ug/edit?usp=sharing" target="_blank">Resume</a>
+- Know about my experiences from <a href="https://drive.google.com/file/d/18vMM_sduzSRub3ngZtoUUtUSpg12vFSF/view?usp=sharing" target="_blank">Resume</a>
 
 - Have a look at my portfolio site <a href="https://kishumaharjan.com.np/" target="_blank">kishumaharjan.com.np</a>
 
