@@ -19,7 +19,7 @@
 
 - Reach me through <a href = "mailto: mhrznkishu.10@gmail.com">mhrznkishu.10@gmail.com</a>
 
-- Know about my experiences from <a href="https://drive.google.com/file/d/18vMM_sduzSRub3ngZtoUUtUSpg12vFSF/view?usp=sharing" target="_blank">Resume</a>
+- Know about my experiences from <a href="https://drive.google.com/file/d/1ksEyWisIF_kixxINK1ME7TytugWdH4TX/view?usp=sharing" target="_blank">Resume</a>
 
 - Have a look at my portfolio site <a href="https://kishumaharjan.com.np/" target="_blank">kishumaharjan.com.np</a>
 
